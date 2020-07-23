@@ -1,4 +1,4 @@
-# PS4HEN
+# PS4HEN Version Infinity!
 Homebrew enabler for PS4
 
 ## Contributors
